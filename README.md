@@ -7,4 +7,4 @@ Array indexes start at zero.
 push adds an item.
 pop removes the last item.
 filter keeps matching items.
-map creates a changed copy.
+map creates a changed copy
